@@ -3,7 +3,7 @@ export default function Home() {
       <div className="flex flex-col items-center justify-center h-screen">
       <main className="flex flex-col text-9xl">
         <span>Aquarium</span>
-        <span>Archive</span>
+        <span>Archive .</span>
       </main>
       </div>
   );
